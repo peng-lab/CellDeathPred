@@ -2,6 +2,8 @@
 
 Application of contrastive learning for ferroptosis and apoptosis indentification, coded up in Python by Aidin Biibosunov and Alaa Bessadok. Please contact biibosunov.aidin@gmail.com for further inquiries. Thanks. 
 
+<img width="641" alt="Screenshot 2023-09-25 at 14 05 57" src="https://github.com/peng-lab/CellDeathPred/assets/67750721/db12c435-3ca6-4c62-865d-e78026da2bea">
+
 > **Abstract:** *Cell death, such as apoptosis and ferroptosis, play essential roles in the process of development, homeostasis, and pathogenesis of acute and chronic diseases. The increasing number of studies investigating cell death types in various diseases, particularly cancer
 and degenerative diseases, has raised hopes for their modulation in disease therapies. However, identifying the presence of a particular cell death type is not an obvious task, as it requires computationally intensive work and costly experimental assays. To
 address this challenge, we present CellDeathPred, a novel deep-learning framework that uses high-content imaging based on cell painting to distinguish cells undergoing ferroptosis or apoptosis from healthy cells. In particular, we incorporate a deep neural

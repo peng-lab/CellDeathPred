@@ -32,7 +32,7 @@ If you want to test the code using the pretrained model, type in the terminal th
 python '
 ```
 
-# Citation
+## Citation
 
 If our code is useful for your work please cite our paper:
 

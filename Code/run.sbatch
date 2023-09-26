@@ -12,5 +12,5 @@
 #SBATCH -t 04:00:00 #Job runtime
 #SBATCH --nice=10000 #Manual priority. Do not change this.
 
-source /home/haicu/alaa.bessadok/for_Alaa/run_train_script.sh
+source ./run_train_script.sh
 

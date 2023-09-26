@@ -1,6 +1,6 @@
 # CellDeathPred: a deep learning framework for ferroptosis and apoptosis prediction based on cell painting
 
-Application of contrastive learning for ferroptosis and apoptosis indentification, coded up in Python by Aidin Biibosunov and Alaa Bessadok. Please contact biibosunov.aidin@gmail.com for further inquiries. Thanks. 
+Application of contrastive learning for ferroptosis and apoptosis indentification, coded up in Python by Aidin Biibosunov and Alaa Bessadok. Please contact biibosunov.aidin@gmail.com for further inquiries. Thanks.
 
 <img width="641" alt="Screenshot 2023-09-25 at 14 05 57" src="https://github.com/peng-lab/CellDeathPred/assets/67750721/db12c435-3ca6-4c62-865d-e78026da2bea">
 
@@ -19,20 +19,18 @@ This codebase has been developed on a linux machine with python version 3.8, tor
 
 ## Pretrained models
 
+The model that was used in the paper is [here](./Code/saved_models/saved_models_train_exp67_2)
 
 ## CellDeathPred training and evaluation on cell painting images
 
-You can train the program with the following command:
+You can train a new model with the following command:
 
 ```bash
-python main.py
+sh run.sbatch
 ```
+TODO: add documentation for this command
 
-If you want to test the code using the pretrained model, type in the terminal the following commande:
-
-```bash
-python '
-```
+If you want to test the code using the pretrained model, please use this [notebook](./Code/notebooks/dataset_exp3)
 
 ## Citation
 

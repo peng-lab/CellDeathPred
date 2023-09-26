@@ -30,7 +30,7 @@ sh run.sbatch
 ```
 TODO: add documentation for this command
 
-If you want to test the code using the pretrained model, please use this [notebook](./Code/notebooks/dataset_exp3)
+If you want to test the code using the pretrained model, please use this [notebook](./Code/notebooks/dataset_exp3.ipynb)
 
 ## Citation
 

@@ -15,7 +15,7 @@ This work is published in nature cell death discovery journal [[`nature CDD`](ht
 
 ## Requirements
 
-This codebase has been developed on a linux machine with python version 3.8, torch 1.8.1, torchvision 0.9.1 and a HPC cluster running with the slurm workload manager. All required python packages and corresponding version for this setup can be found in the [requirements.txt](requirements.txt) file.
+This codebase has been developed on a linux machine with python version 3.8, torch 1.8.1, torchvision 0.9.1 and a HPC cluster running with the slurm workload manager. All required python packages and corresponding version for this setup can be found in the [requirements.txt](./Code/requirements.txt) file.
 
 ## Pretrained models
 

@@ -5,7 +5,7 @@ Application of contrastive learning for cell painting dataset
 
 ## Testing dataset:
 
-The image data used in this work and described in Figure 1 and Figure 2 are available at https://zenodo.org/ ...
+The image data used in this work and described in Figure 1 and Figure 2 are available at [zenodo](https://zenodo.org/records/8375591)
 
 <img width="657" alt="Screenshot 2023-09-25 at 13 10 41" src="https://github.com/peng-lab/CellDeathPred/assets/67750721/745703b7-4d69-446a-b9e1-d76d4ebf4789">
 
